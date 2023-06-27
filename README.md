@@ -17,6 +17,4 @@
     - Bug #1.  [the screenshot of the bug report in Jira](https://drive.google.com/file/d/1VZRvN10YPg2abwmycoaoJ6l8h9UxaVDb/view?usp=sharing)
     - Bug #2. [the screenshot of the bug report in Jira](https://drive.google.com/file/d/1TfVL6j4x9R4qywwpG4KEcBZkb2AkhKlR/view?usp=sharing)
 
-
     
-
